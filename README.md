@@ -24,5 +24,5 @@ Skills Used
 Screenshots
 https://github.com/Khushpreet77/Mobile-Sales-Dashboard/blob/main/dashboard.jpg
 https://github.com/Khushpreet77/Mobile-Sales-Dashboard/blob/main/mtd.jpg
-
+https://github.com/Khushpreet77/Mobile-Sales-Dashboard/blob/main/same%20period%20last%20year.jpg
   
